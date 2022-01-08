@@ -1,0 +1,21 @@
+{
+	"TotalJobs": 3,
+	"1": {
+		"id": 1,
+		"state" : "Maryland",
+		"mgggParams" : {"rounds": 500, "cooling_period": 10000, "population_difference": 0.1},
+		"numDistrictings" : 125550
+	},
+	"2": {
+		"id": 2,
+		"state" : "Virginia",
+		"mgggParams" : {"rounds": 500, "cooling_period": 10000, "population_difference": 0.1},
+		"numDistrictings" : 112089
+	},
+	"3": {
+		"id": 3,
+		"state" : "Arizona",
+		"mgggParams" : {"rounds": 200, "cooling_period": 50, "population_difference": 0.1},
+		"numDistrictings" : 4700
+	}
+}
